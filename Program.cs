@@ -83,7 +83,7 @@ namespace PropertiesGetSet
     {
         public override void abstractTest()
         {
-            
+            Console.WriteLine("Override methos");
         }
         public override string Cityname
         {
